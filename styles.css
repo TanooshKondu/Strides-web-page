@@ -32,6 +32,9 @@
 .section__header, h1{
   color: #7bf409;
 }
+.error{
+  color: #fa0505;
+}
 .section__header, a{
   color: #fa0505;
 }
@@ -73,8 +76,9 @@ body {
 }
 
 header {
-  background-image: linear-gradient(to top, var(--primary-color), transparent),
-    url("assets/header.jpg");
+  /* background-image: linear-gradient(to top, var(--primary-color), transparent),
+    url("assets/header.jpg"); */
+  background-color: #0a0d14;
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
