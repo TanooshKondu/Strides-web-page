@@ -102,5 +102,4 @@ countdown();
 // })
 
 // prev.addEventListener('click', function(){
-//     let items = document.querySelectorAll('.item')
-//     document.querySelector('.slide').prepend(
+//     let items = document.querySelectorAll('.item'
