@@ -89,8 +89,3 @@ function formatTime(time) {
 }
 
 countdown();
-
-
-///<<<<---------------GALLERY SECTION ------------->>>>>
-
-// let next = do
