@@ -840,14 +840,5 @@ nav {
     width: 40px;
     height: 35px;
     border-radius: 8px;
-    border: none;
-    cursor: pointer;
-    margin: 0 5px;
-    border: 1px solid #000;
-    transition: 0.3s;
-}
-
-.button button:hover{
-    background: #ababab;
-    color: #fff;
+    bo
 }*/
