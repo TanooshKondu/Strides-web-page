@@ -781,25 +781,5 @@ nav {
     transform: translate(0, -50%);
     font-family: system-ui;
     display: none;
-}
 
-
-.slide .item:nth-child(2) .content{
-    display: block;
-}
-
-
-.content .name{
-    font-size: 40px;
-    text-transform: uppercase;
-    font-weight: bold;
-    opacity: 0;
-    animation: animate 1s ease-in-out 1 forwards;
-}
-
-.content .des{
-    margin-top: 10px;
-    margin-bottom: 20px;
-    opacity: 0;
-    animation: animate 1s ease-in-out 0.3s 1 forwa
 }*/
