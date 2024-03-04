@@ -89,7 +89,3 @@ function formatTime(time) {
 }
 
 countdown();
-////////
-//////////
-////////////////
-////////
