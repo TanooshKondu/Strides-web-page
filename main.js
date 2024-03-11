@@ -105,15 +105,7 @@ countdown();
       <h4>Talent Expo</h4>
   
   <div class="gallery__card">
-    <img src="assets/gallery-3.jpg" alt="gallery" />
-    <div class="gallery__content">
-      <h4>Talent Expo</h4>
-      <p>Student Team</p>
-    </div>
-  </div>
-  <div class="gallery__card">
-    <img src="assets/gallery-4.jpg" alt="gallery" />
-    <div class="gallery__content">
+t">
       <h4>Dr. M. Satish</h4>
       <p>Vice President</p>
     </div>
