@@ -89,10 +89,7 @@ function formatTime(time) {
 }
 
 countdown();
-//
-//
-//
-//
+
 {/* <div class="gallery__container">
 <h2 class="section__header">Gallery photos</h2>
 <p class="section__subheader">
