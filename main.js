@@ -90,18 +90,3 @@ function formatTime(time) {
 
 countdown();
 
-{/*
-<section class="footer">
-<div class="section__container footer__container">
-<h4>E-Artifact.</h4>
-<div class="footer__socials">
-  <span>
-    <a href="https://www.instagram.com/e_artifact2024"><i class="ri-instagram-fill"></i></a>
-  </span>
-</div>
-<h3>Web Developer</h3>
-<div>
-  <div class="dev_card">
-    <p>K.Tanoosh - 9110526575</p>
-  </div>
-</div> */}
