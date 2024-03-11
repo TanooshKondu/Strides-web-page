@@ -103,16 +103,7 @@ countdown();
     <img src="assets/gallery-1.jpg" alt="gallery" />
     <div class="gallery__content">
       <h4>Talent Expo</h4>
-      <p>CSE(AI&ML)</p>
-    </div>
-  </div>
-  <div class="gallery__card">
-    <img src="assets/gallery-2.jpg" alt="gallery" />
-    <div class="gallery__content">
-      <h4>Faculty</h4>
-      <p>CSE(AI&ML)</p>
-    </div>
-  </div>
+  
   <div class="gallery__card">
     <img src="assets/gallery-3.jpg" alt="gallery" />
     <div class="gallery__content">
