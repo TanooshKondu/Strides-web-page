@@ -108,19 +108,7 @@ countdown();
       <p>Principal</p>
     </div>
   </div>
-</div>
-</div>
-</section>
-
-<section class="contact" id="contact">
-<div class="section__container contact__container">
-<div class="contact__col">
-  <h4>HEAD OF THE DEPARTMENT</h4>
-  <p>Dr. A. RADHA KRISHNA <br>PROFESSOR</p>
-</div>
-<div class="contact__col">
-  <h4>FACULTY COORDINATOR</h4>
-  <p>A . JANARDHANA RAO<br>ASST PROFESSOR</p>
+R</p>
 </div>
 <div class="contact__col">
   <div class="contact__card">
