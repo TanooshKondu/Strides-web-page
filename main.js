@@ -90,46 +90,7 @@ function formatTime(time) {
 
 countdown();
 
-{/* <div class="gallery__container">
-<h2 class="section__header">Gallery photos</h2>
-<p class="section__subheader">
-  Our Department's recent event Talent Expo!.
-</p>
-<div class="gallery__grid">
-  <div class="gallery__card">
-    <img src="assets/gallery-1.jpg" alt="gallery" />
-    <div class="gallery__content">
-      <h4>Talent Expo</h4>
-  
-  <div class="gall
-      <p>Principal</p>
-    </div>
-  </div>
-R</p>
-</div>
-<div class="contact__col">
-  <div class="contact__card">
-    <span><i class="ri-phone-line"></i></span>
-    <h4>Contact us</h4>
-    <h5>ROHAN CHIKATLA</h5>
-    <p>8977944161</p>
-    <h5>SHAIK FARHA</h5>
-    <p>9542502991</p>
-  </div>
-</div>
-<div class="contact__col">
-  <div class="contact__card">
-    <span><i class="ri-phone-line"></i></span>
-    <h4>Contact us</h4>
-    <h5>SUBHASH VILLA</h5>
-    <p>7013749014</p>
-    <h5>SRUJUNA PYNNI</h5>
-    <p>6281395226</p>
-  </div>
-</div>
-</div>
-</section>
-
+{/*
 <section class="footer">
 <div class="section__container footer__container">
 <h4>E-Artifact.</h4>
