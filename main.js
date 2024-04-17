@@ -196,19 +196,3 @@ countdown();
 ///uytjt tut juy 8uk
 // uty ktuui//
 //
-//
-///uytjt tut juy 8uk
-// uty ktuui//
-//
-//
-///uytjt tut juy 8uk
-// uty ktuui//
-//
-//
-///uytjt tut juy 8uk
-// uty ktuui//
-//
-//
-///uytjt tut juy 8uk
-// uty ktuui//
-//
