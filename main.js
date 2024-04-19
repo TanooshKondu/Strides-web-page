@@ -101,5 +101,4 @@ countdown();
 // ivslus iafuzbve
 //
 ///ifjg oadpofhg[ dg
-//us;iod gfgn ;eoasng;erl
-//sodgn rgn eur
+//us;iod gf
