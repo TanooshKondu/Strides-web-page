@@ -89,6 +89,3 @@ function formatTime(time) {
 }
 
 countdown();
-//
-///ifjg oadpofhg[ dg
-//us;iod gfgn ;eoasng;er
