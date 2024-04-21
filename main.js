@@ -107,15 +107,3 @@ countdown();
 //ipj wwrmg
 // sfdbdraba hdtshead
 //et hthrthr fjryjrym
-// iuabf shdfn ewojnf 
-// sdoih ;fsian vns;o nvrw
-//pjsv jwepsjf powasj jojwex
-//ipj wwrmg
-// sfdbdraba hdtshead
-//et hthrthr fjryjrym
-// iuabf shdfn ewojnf 
-// sdoih ;fsian vns;o nvrw
-//pjsv jwepsjf powasj jojwex
-//ipj wwrmg
-// sfdbdraba hdtshead
-//et hthrthr fjryjrym
