@@ -92,8 +92,3 @@ countdown();
 //
 ///
 // qwifow eqif
-// iowef noiewn fwe
-//pewinfp wenogierwn
-//foiwho vinoig 
-///
-// qw
