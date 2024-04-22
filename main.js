@@ -107,8 +107,3 @@ countdown();
 //foiwho vinoig 
 ///
 // qwifow eqif
-// iowef noiewn fwe
-//pewinfp wenogierwn
-//foiwho vinoig 
-///
-// qwifow eqif
