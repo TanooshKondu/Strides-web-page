@@ -89,6 +89,3 @@ function formatTime(time) {
 }
 
 countdown();
-//
-///
-// qwifow eqif
