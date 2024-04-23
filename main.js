@@ -89,5 +89,3 @@ function formatTime(time) {
 }
 
 countdown();
-// edioasf owifh 
-// iue
