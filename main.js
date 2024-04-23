@@ -90,8 +90,4 @@ function formatTime(time) {
 
 countdown();
 // edioasf owifh 
-// iuefgbh eiswf
-//WOGH OERIAGH ESNG
-// wonh gfaergo earniog
-// ewoihfno; sngg SGJ
-//iqj f eiohwiofh noeqr hpagno
+// iue
