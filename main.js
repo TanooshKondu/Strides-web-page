@@ -89,5 +89,4 @@ function formatTime(time) {
 }
 
 countdown();
-// 09wdGRSJ OIRG
-// JEFOERIAJ GIENG IPU
+// 09wdGRSJ OIR
