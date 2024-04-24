@@ -89,4 +89,3 @@ function formatTime(time) {
 }
 
 countdown();
-// 09wdGRSJ OIR
