@@ -90,6 +90,4 @@ function formatTime(time) {
 
 countdown();
 // 09wdGRSJ OIRG
-// JEFOERIAJ GIENG IPUH F
-/// FWEAJG OFPIWEGOFIAW/
-//o riw
+// JEFOERIAJ GIENG IPU
