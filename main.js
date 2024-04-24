@@ -96,6 +96,4 @@ countdown();
 // oirjw goipjae g[oear
 //qwp jf weojqig eproqw
 //ppjeqw fojweprogj
-//piodfj weiojgo rnvg
-//foihw eoefck;sdnfc;ow e f
-//efweojp gfwejgewjg
+//piodf
