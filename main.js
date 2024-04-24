@@ -92,6 +92,4 @@ countdown();
 // 09wdGRSJ OIRG
 // JEFOERIAJ GIENG IPUH F
 /// FWEAJG OFPIWEGOFIAW/
-//o riw g
-// oirjw goipjae g[oear
-//qwp jf weojqig e
+//o riw
