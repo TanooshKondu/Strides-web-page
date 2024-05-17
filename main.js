@@ -91,5 +91,3 @@ function formatTime(time) {
 countdown();
 //
 //
-//
-//
